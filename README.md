@@ -1,4 +1,4 @@
-# 📊 Retail Sales Performance & Customer Behavior Analysis
+#  Retail Sales Performance & Customer Behavior Analysis
 
 This project is an **end-to-end retail analytics case study** that demonstrates the complete workflow of a **Data Analyst**, starting from raw, messy data and ending with **professional Power BI dashboards** and **business insights**.
 
@@ -11,7 +11,7 @@ The project focuses on:
 
 ---
 
-## 📁 Dataset Source
+##  Dataset Source
 
 The dataset used in this project was obtained from Kaggle:
 
@@ -22,7 +22,7 @@ This dataset intentionally contains missing values, inconsistent formats, and da
 
 ---
 
-## 🎯 Project Objectives
+##  Project Objectives
 
 - Clean and preprocess raw retail transaction data  
 - Handle missing and inconsistent values  
@@ -33,7 +33,7 @@ This dataset intentionally contains missing values, inconsistent formats, and da
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 | Tool | Purpose |
 |-----|--------|
@@ -46,7 +46,7 @@ This dataset intentionally contains missing values, inconsistent formats, and da
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 Retail-Sales-Performance-Analysis/
@@ -90,7 +90,7 @@ Retail-Sales-Performance-Analysis/
 - Removed invalid or unusable records  
 - Created a clean dataset for analysis  
 
-📁 Output: `retail_sales_cleaned.csv`
+ Output: `retail_sales_cleaned.csv`
 
 ---
 
@@ -149,7 +149,7 @@ EDA visualizations were created using Python to support insights.
 
 Two interactive dashboards were created using Power BI.
 
-### 📌 Dashboard 1: Sales Overview
+###  Dashboard 1: Sales Overview
 - KPIs:
   - Total Revenue
   - Total Transactions
@@ -163,7 +163,7 @@ Two interactive dashboards were created using Power BI.
 - Discount Impact Analysis
 - Interactive slicers (Year, Month, Category, Payment Method)
 
-### 📌 Dashboard 2: Customer & Product Behavior
+###  Dashboard 2: Customer & Product Behavior
 - Transactions by Day of Week
 - Quantity variation across price categories
 - Average quantity by price category
@@ -172,7 +172,7 @@ Two interactive dashboards were created using Power BI.
 
 ---
 
-## 🚀 How to Run the Project
+##  How to Run the Project
 
 1. Open `retail_sales_analysis.ipynb` to view data cleaning, feature engineering, and EDA.
 2. Open `retail_sales_dashboard.pbix` in Power BI to explore the dashboards.
@@ -180,7 +180,7 @@ Two interactive dashboards were created using Power BI.
 
 ---
 
-## 🏁 Conclusion
+##  Conclusion
 
 This project demonstrates a **complete data analytics workflow**, including:
 
@@ -193,7 +193,8 @@ It reflects the responsibilities and skills expected of a **Data Analyst / BI An
 
 ---
 
-## 🙌 Acknowledgements
+##  Acknowledgements
 
 Dataset provided by the Kaggle community:  
 https://www.kaggle.com/datasets/ahmedmohamed2003/retail-store-sales-dirty-for-data-cleaning
+
